@@ -7,3 +7,7 @@
 - Using html tags attributes
 
 ## Workshop two: Calculating percents 
+- Writing html with JS
+
+## workshop three: Calculating average
+- Using array methods
