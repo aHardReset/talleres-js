@@ -1,4 +1,4 @@
-function average(numArray) {
+function calculateAverage(numArray) {
   const sumElements = (aggregate = 0, next) => {
     return aggregate + next;
   };
@@ -8,5 +8,3 @@ function average(numArray) {
 }
 
 const lista1 = [...Array(10).keys()].map((x) => x * 100);
-
-console.log(lista1);
